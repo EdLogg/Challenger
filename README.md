@@ -1,8 +1,8 @@
 # Challenger
 Challenger Puzzle Solver  
 Here is a sample puzzle:  
-            | 17  
- -  7  -  - | 20  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;17  
+&nbsp;-&nbsp;&nbsp;7&nbsp;&nbsp;-&nbsp;&nbsp;-&nbsp;|&nbsp;20  
  -  -  7  - | 21  
 &nbsp;4  -  -  - | 23  
 &nbsp;-  -  -  6 | 24  
